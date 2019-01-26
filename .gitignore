@@ -1,10 +1,10 @@
 .Rhistory
 .Rproj.user
 .tictactoe.tmp.nlogo
-.doc
-.docx
-.nlogo
-.tex
-.mov
+*.doc
+*.docx
+*.nlogo
+*.tex
+*.mov
 
   
