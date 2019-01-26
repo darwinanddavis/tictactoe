@@ -1,4 +1,4 @@
-# Individual-based spatial consumer-resource disease transmission model for predicting parasite loading on nutrient cycling in ecosystems      
+# Tic-Tac-Toe: Individual-based spatial consumer-resource disease transmission model for predicting parasite loading on nutrient cycling in ecosystems    
 
 **[Living Earth Collaborative Center for Biodiversity](https://livingearthcollaborative.wustl.edu/) Working Group**    
 **Washington University**      
