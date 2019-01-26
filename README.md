@@ -23,7 +23,7 @@ Develop the consumer-resource disease transmission model of parasite loading on 
 
 To forecast how resource biomass uptake and release by infected and non-infected host populations varies under a disease mosaic landscape driven by feedback between modes and rates of disease transmission and costs of parasite occurrence and nutrient deposit in space and time.       
 
-Download the tictactoe.PDF document to see an overview of the model.  
+[See the PDF document](https://github.com/darwinanddavis/tictactoe/blob/master/tictactoe.pdf) for an overview of the model.        
 
 ## Maintainer  
 
